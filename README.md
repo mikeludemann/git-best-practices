@@ -68,7 +68,7 @@ Best practices for making great commit messages
 	* to
 	* branch
 
-* '<Task-ID>'
+* #<Task-ID>
 	* Alphanumeric characters
 
 * {Comment}
