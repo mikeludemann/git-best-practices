@@ -28,14 +28,14 @@ Best practices for making great commit messages
 		* version: version
 	* #IMPLEMENT – Implement a new feature
 		* function: clazz
-	* #CHANGE – Ändern einer bestehenden Funktion
+	* #CHANGE – Change an existing function
 		* function: clazz
-	* #EXTEND – Change an existing function
+	* #EXTEND – Extend an existing feature
 		* function: clazz
 		* attach: clazz
-	* #BUGFIX – error correction
+	* #BUGFIX – Error correction
 		* priority: critical / medium / low / design
-	* #REVIEW – quality control
+	* #REVIEW – Quality control
 		* refactor: function
 		* analyze: quality
 		* migrate: function
